@@ -1,0 +1,13 @@
+PODS:
+  - Aspects (1.4.1)
+  - MLTransition (2.1.2)
+
+DEPENDENCIES:
+  - Aspects (~> 1.4.1)
+  - MLTransition (~> 2.1.2)
+
+SPEC CHECKSUMS:
+  Aspects: 7595ba96a6727a58ebcbfc954497fc5d2fdde546
+  MLTransition: 26751adac088c07e4df48c9f605cfdd767bb8afa
+
+COCOAPODS: 0.39.0
